@@ -8,7 +8,7 @@ Nesse Projeto foi desenvolvido um site utilizando Flexbox
 - Quais tecnologias foram utilizadas?
   - HTML
   - CSS 
-  -
+  
 
 ## O que você foi exercitado nesse projeto:
 
